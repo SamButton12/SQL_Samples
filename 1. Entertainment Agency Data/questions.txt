@@ -1,0 +1,12 @@
+EntertainmentAgencyData
+
+1) Find Agent-Client pairs that have previously worked with each other. 
+2) Find agents who have more than three clients. 
+3) Find all customers who are interested in rock music (any direction) and output their data for sending advertising. 
+4) List all classical music events held in Seattle. 
+5) List all activities in which more women than men participated. 
+6) Which client pays their agent the most? 
+7) What contracts expire on July 15, 1999? 
+8) Find your customers who live in Bellevue and love classical music. 
+9) Which state had the most concerts in the third quarter of 1999? 
+10) Which of the agents received the largest profits in 1999?
